@@ -1,0 +1,9 @@
+name: manifold
+description: Universal artifact registry for schemas, containers, and other artifacts
+services:
+  - manifold-core:
+      path: services/manifold-core
+  - manifold-api:
+      path: services/manifold-api
+  - manifold-app:
+      path: services/manifold-app

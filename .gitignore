@@ -1,0 +1,17 @@
+# Ignore all by default (whitelist pattern)
+*
+
+# Metarepo config files
+!.gitignore
+!LICENSE.md
+!README.md
+!CLAUDE.md
+!Tiltfile
+!docker-compose.yaml
+!weaver.yaml
+!renovate.json
+!.env.local.template
+
+# Allow directories (but not their contents by default)
+!services/
+services/*
