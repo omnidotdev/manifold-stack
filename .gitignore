@@ -7,10 +7,15 @@
 !README.md
 !CLAUDE.md
 !Tiltfile
+!compose.yaml
 !docker-compose.yaml
 !weaver.yaml
 !renovate.json
 !.env.local.template
+
+# GitHub config
+!.github/
+!.github/**
 
 # Allow directories (but not their contents by default)
 !services/
