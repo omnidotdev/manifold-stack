@@ -5,11 +5,5 @@
 !.gitignore
 !LICENSE.md
 !README.md
-!CLAUDE.md
 !Tiltfile
 !compose.yaml
-!docker-compose.yaml
-
-# Allow directories (but not their contents by default)
-!services/
-services/*
