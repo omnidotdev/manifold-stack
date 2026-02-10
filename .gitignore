@@ -9,8 +9,6 @@
 !Tiltfile
 !compose.yaml
 !docker-compose.yaml
-!renovate.json
-!.env.local.template
 
 # Allow directories (but not their contents by default)
 !services/
