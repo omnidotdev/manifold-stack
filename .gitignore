@@ -3,6 +3,8 @@
 
 # Metarepo config files
 !.gitignore
+!.github/
+!.github/**
 !LICENSE.md
 !README.md
 !Tiltfile
