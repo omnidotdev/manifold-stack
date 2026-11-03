@@ -37,4 +37,4 @@ tilt up
 
 ## License
 
-Apache-2.0. See [LICENSE.md](./LICENSE.md).
+The code in this repository is licensed under Apache 2.0, &copy; [Omni LLC](https://omni.dev). See [LICENSE.md](LICENSE.md) for more information.
