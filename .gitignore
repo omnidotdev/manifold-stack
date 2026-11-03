@@ -10,3 +10,6 @@
 !Tiltfile
 !compose.yaml
 !.env.local.template
+
+# Local agent settings (not shipped)
+.claude/
